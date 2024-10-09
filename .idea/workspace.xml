@@ -5,17 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afa83ac5-1a3e-4497-b709-35e500e613ca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ATB9xJavaProgram.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_02102024/Lab001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_02102024/Lab002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_03102024/Lab003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_03102024/Lab004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_03102024/Lab005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_08102024/Lab006.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_08102024/Lab007.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_08102024/Lab008.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_08102024/Lab009.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_08102024/Lab010.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_08102024/Lab011.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_08102024/Lab012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_08102024/Lab013.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_08102024/Lab014.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +49,13 @@
     "Application.Lab003.executor": "Run",
     "Application.Lab004.executor": "Run",
     "Application.Lab005.executor": "Run",
+    "Application.Lab006.executor": "Run",
+    "Application.Lab007.executor": "Run",
+    "Application.Lab008.executor": "Run",
+    "Application.Lab009.executor": "Run",
+    "Application.Lab010.executor": "Run",
+    "Application.Lab011.executor": "Run",
+    "Application.Lab012.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -59,13 +65,13 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab005">
-    <configuration name="Lab001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_02102024.Lab001" />
+  <component name="RunManager" selected="Application.Lab012">
+    <configuration name="Lab008" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_08102024.Lab008" />
       <module name="ATB9xJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.ex_02102024.*" />
+          <option name="PATTERN" value="Oct.ex_08102024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_02102024.Lab002" />
+    <configuration name="Lab009" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_08102024.Lab009" />
       <module name="ATB9xJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.ex_02102024.*" />
+          <option name="PATTERN" value="Oct.ex_08102024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_03102024.Lab003" />
+    <configuration name="Lab010" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_08102024.Lab010" />
       <module name="ATB9xJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.ex_03102024.*" />
+          <option name="PATTERN" value="Oct.ex_08102024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab004" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_03102024.Lab004" />
+    <configuration name="Lab011" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_08102024.Lab011" />
       <module name="ATB9xJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.ex_03102024.*" />
+          <option name="PATTERN" value="Oct.ex_08102024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab005" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_03102024.Lab005" />
+    <configuration name="Lab012" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_08102024.Lab012" />
       <module name="ATB9xJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.ex_03102024.*" />
+          <option name="PATTERN" value="Oct.ex_08102024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab005" />
-        <item itemvalue="Application.Lab001" />
-        <item itemvalue="Application.Lab004" />
-        <item itemvalue="Application.Lab003" />
-        <item itemvalue="Application.Lab002" />
+        <item itemvalue="Application.Lab012" />
+        <item itemvalue="Application.Lab011" />
+        <item itemvalue="Application.Lab010" />
+        <item itemvalue="Application.Lab009" />
+        <item itemvalue="Application.Lab008" />
       </list>
     </recent_temporary>
   </component>
@@ -157,6 +163,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Oct/ex_08102024/Lab010.java</url>
+          <line>4</line>
+          <properties class="Oct.ex_08102024.Lab010" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
