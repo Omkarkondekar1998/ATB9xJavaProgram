@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afa83ac5-1a3e-4497-b709-35e500e613ca" name="Changes" comment="1510">
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_16102024/Lab067.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_16102024/Lab068.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_16102024/Lab069.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_16102024/Task1601.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_16102024/Task1602.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_17102024/Lab070.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_17102024/Lab071.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_17102024/Lab072.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_17102024/Lab073.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_17102024/Lab074.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_17102024/Lab075.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_17102024/Lab076.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -103,6 +105,13 @@
     "Application.Lab067.executor": "Run",
     "Application.Lab068.executor": "Run",
     "Application.Lab069.executor": "Run",
+    "Application.Lab070.executor": "Run",
+    "Application.Lab071.executor": "Run",
+    "Application.Lab072.executor": "Debug",
+    "Application.Lab073.executor": "Debug",
+    "Application.Lab074.executor": "Run",
+    "Application.Lab075.executor": "Run",
+    "Application.Lab076.executor": "Run",
     "Application.Task1501.executor": "Run",
     "Application.Task1601.executor": "Run",
     "Application.Task1602.executor": "Run",
@@ -115,20 +124,7 @@
     "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Task1602">
-    <configuration name="Lab066" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_15102024.Lab066" />
-      <module name="ATB9xJavaProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Oct.ex_15102024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab076">
     <configuration name="Lab067" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Oct.ex_16102024.Lab067" />
       <module name="ATB9xJavaProgram" />
@@ -143,13 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab068" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_16102024.Lab068" />
+    <configuration name="Lab072" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_17102024.Lab072" />
       <module name="ATB9xJavaProgram" />
-      <option name="PROGRAM_PARAMETERS" value="78 21 12 03" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.ex_16102024.*" />
+          <option name="PATTERN" value="Oct.ex_17102024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab069" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_16102024.Lab069" />
+    <configuration name="Lab073" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_17102024.Lab073" />
       <module name="ATB9xJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.ex_16102024.*" />
+          <option name="PATTERN" value="Oct.ex_17102024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,13 +165,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1601" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_16102024.Task1601" />
+    <configuration name="Lab074" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_17102024.Lab074" />
       <module name="ATB9xJavaProgram" />
-      <option name="PROGRAM_PARAMETERS" value="24 67" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.ex_16102024.*" />
+          <option name="PATTERN" value="Oct.ex_17102024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,12 +178,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1602" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_16102024.Task1602" />
+    <configuration name="Lab075" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_17102024.Lab075" />
       <module name="ATB9xJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.ex_16102024.*" />
+          <option name="PATTERN" value="Oct.ex_17102024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab076" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_17102024.Lab076" />
+      <module name="ATB9xJavaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Oct.ex_17102024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -199,19 +206,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Lab067" />
-      <item itemvalue="Application.Task1602" />
-      <item itemvalue="Application.Lab069" />
-      <item itemvalue="Application.Task1601" />
-      <item itemvalue="Application.Lab066" />
-      <item itemvalue="Application.Lab068" />
+      <item itemvalue="Application.Lab072" />
+      <item itemvalue="Application.Lab073" />
+      <item itemvalue="Application.Lab074" />
+      <item itemvalue="Application.Lab075" />
+      <item itemvalue="Application.Lab076" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task1602" />
-        <item itemvalue="Application.Task1601" />
-        <item itemvalue="Application.Lab069" />
-        <item itemvalue="Application.Lab068" />
-        <item itemvalue="Application.Lab066" />
+        <item itemvalue="Application.Lab076" />
+        <item itemvalue="Application.Lab075" />
+        <item itemvalue="Application.Lab074" />
+        <item itemvalue="Application.Lab073" />
+        <item itemvalue="Application.Lab072" />
       </list>
     </recent_temporary>
   </component>
@@ -304,7 +311,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729010998120</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="1510">
+      <option name="closed" value="true" />
+      <created>1729262259493</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1729262259493</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -416,10 +431,44 @@
           </properties>
           <option name="timeStamp" value="16" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Oct/ex_17102024/Lab074.java</url>
+          <line>4</line>
+          <properties class="Oct.ex_17102024.Lab074" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Oct/ex_11102024/Lab042.java</url>
           <line>2</line>
           <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Oct/ex_17102024/Lab074.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Oct/ex_17102024/Lab074.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Oct/ex_17102024/Lab074.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Oct/ex_17102024/Lab074.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Oct/ex_17102024/Lab074.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="28" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
