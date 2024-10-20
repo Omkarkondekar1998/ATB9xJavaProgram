@@ -4,11 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="afa83ac5-1a3e-4497-b709-35e500e613ca" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_17102024/Lab077.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_17102024/Lab078_Grading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_17102024/Lab079.java" afterDir="false" />
+    <list default="true" id="afa83ac5-1a3e-4497-b709-35e500e613ca" name="Changes" comment="2">
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_18102024/Lab080.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_18102024/Lab081.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_18102024/Lab082.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_18102024/Lab083.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_18102024/Lab084.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_18102024/Lab085.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_18102024/Lab086.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_18102024/Lab087.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_18102024/Task1802.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_18102024/Task_1801.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_18102024/Tast1803.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/AA001_reverse_string_without_stringinbuilt_function.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/AA02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +35,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Oct/ex_18102024/Lab086.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -39,6 +51,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AA001.executor": "Run",
+    "Application.AA02.executor": "Run",
     "Application.Lab001.executor": "Run",
     "Application.Lab002.executor": "Run",
     "Application.Lab003.executor": "Run",
@@ -112,9 +126,18 @@
     "Application.Lab077.executor": "Run",
     "Application.Lab078.executor": "Run",
     "Application.Lab078_Grading.executor": "Run",
+    "Application.Lab079.executor": "Run",
+    "Application.Lab080.executor": "Run",
+    "Application.Lab082.executor": "Run",
+    "Application.Lab084.executor": "Run",
+    "Application.Lab085.executor": "Run",
+    "Application.Lab086.executor": "Run",
+    "Application.Lab087.executor": "Run",
     "Application.Task1501.executor": "Run",
     "Application.Task1601.executor": "Run",
     "Application.Task1602.executor": "Run",
+    "Application.Task1802.executor": "Run",
+    "Application.Task_1801.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -122,10 +145,26 @@
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Omkar Kondekar/IdeaProjects/ATB9xJavaPrograms",
     "onboarding.tips.debug.path": "C:/Users/Omkar Kondekar/IdeaProjects/ATB9xJavaProgram/src/Main.java",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab079Triangle">
+  <component name="RunManager" selected="Application.Task1802">
+    <configuration name="AA02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.AA02" />
+      <module name="ATB9xJavaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Lab067" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Oct.ex_16102024.Lab067" />
       <module name="ATB9xJavaProgram" />
@@ -140,12 +179,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab075" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_17102024.Lab075" />
+    <configuration name="Lab086" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_18102024.Lab086" />
       <module name="ATB9xJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.ex_17102024.*" />
+          <option name="PATTERN" value="Oct.ex_18102024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,12 +192,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab076" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_17102024.Lab076" />
+    <configuration name="Lab087" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_18102024.Lab087" />
       <module name="ATB9xJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.ex_17102024.*" />
+          <option name="PATTERN" value="Oct.ex_18102024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,12 +205,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab077" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_17102024.Lab077" />
+    <configuration name="Task1802" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_18102024.Task1802" />
       <module name="ATB9xJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.ex_17102024.*" />
+          <option name="PATTERN" value="Oct.ex_18102024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,25 +218,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab078_Grading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_17102024.Lab078_Grading" />
+    <configuration name="Task_1801" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_18102024.Task_1801" />
       <module name="ATB9xJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.ex_17102024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab079Triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_17102024.Lab079Triangle" />
-      <module name="ATB9xJavaProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Oct.ex_17102024.*" />
+          <option name="PATTERN" value="Oct.ex_18102024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -207,19 +233,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Lab067" />
-      <item itemvalue="Application.Lab075" />
-      <item itemvalue="Application.Lab076" />
-      <item itemvalue="Application.Lab077" />
-      <item itemvalue="Application.Lab078_Grading" />
-      <item itemvalue="Application.Lab079Triangle" />
+      <item itemvalue="Application.AA02" />
+      <item itemvalue="Application.Lab086" />
+      <item itemvalue="Application.Lab087" />
+      <item itemvalue="Application.Task1802" />
+      <item itemvalue="Application.Task_1801" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab079Triangle" />
-        <item itemvalue="Application.Lab078_Grading" />
-        <item itemvalue="Application.Lab077" />
-        <item itemvalue="Application.Lab076" />
-        <item itemvalue="Application.Lab075" />
+        <item itemvalue="Application.Task1802" />
+        <item itemvalue="Application.Task_1801" />
+        <item itemvalue="Application.Lab087" />
+        <item itemvalue="Application.Lab086" />
+        <item itemvalue="Application.AA02" />
       </list>
     </recent_temporary>
   </component>
@@ -328,7 +354,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729269465852</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="2">
+      <option name="closed" value="true" />
+      <created>1729314770589</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1729314770589</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -337,7 +371,8 @@
     <MESSAGE value="11102024" />
     <MESSAGE value="1510" />
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="2" />
+    <option name="LAST_COMMIT_MESSAGE" value="2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -450,6 +485,33 @@
           </properties>
           <option name="timeStamp" value="25" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Oct/ex_18102024/Lab084.java</url>
+          <line>4</line>
+          <properties class="Oct.ex_18102024.Lab084" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Practice/AA001_reverse_string_without_stringinbuilt_function.java</url>
+          <line>3</line>
+          <properties class="Practice.AA001_reverse_string_without_stringinbuilt_function" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Practice/AA02.java</url>
+          <line>4</line>
+          <properties class="Practice.AA02" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Oct/ex_11102024/Lab042.java</url>
           <line>2</line>
@@ -479,6 +541,11 @@
           <url>file://$PROJECT_DIR$/src/Oct/ex_17102024/Lab074.java</url>
           <line>11</line>
           <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Practice/AA001_reverse_string_without_stringinbuilt_function.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="32" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
