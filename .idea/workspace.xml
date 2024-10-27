@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="afa83ac5-1a3e-4497-b709-35e500e613ca" name="Changes" comment="Commit" />
+    <list default="true" id="afa83ac5-1a3e-4497-b709-35e500e613ca" name="Changes" comment="Commit">
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_23102024/Lab114.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_23102024/Lab115.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_23102024/Lab116.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_23102024/Lab117.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_23102024/Task2301.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -145,11 +152,15 @@
     "Application.Lab111_arg.executor": "Run",
     "Application.Lab112.executor": "Run",
     "Application.Lab113.executor": "Run",
+    "Application.Lab114.executor": "Run",
+    "Application.Lab115.executor": "Run",
+    "Application.Lab116.executor": "Run",
     "Application.Lab_100.executor": "Run",
     "Application.Task1501.executor": "Run",
     "Application.Task1601.executor": "Run",
     "Application.Task1602.executor": "Run",
     "Application.Task1802.executor": "Run",
+    "Application.Task2301.executor": "Run",
     "Application.Task_1801.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -164,7 +175,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab113">
+  <component name="RunManager" selected="Application.Task2301">
     <configuration name="Lab067" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Oct.ex_16102024.Lab067" />
       <module name="ATB9xJavaProgram" />
@@ -186,59 +197,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab107_arg" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_22102024.Lab107" />
-      <module name="ATB9xJavaProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Oct.ex_22102024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab110" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_22102024.Lab110" />
-      <module name="ATB9xJavaProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Oct.ex_22102024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab111_arg" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_22102024.Lab111" />
-      <module name="ATB9xJavaProgram" />
-      <option name="PROGRAM_PARAMETERS" value="100" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Oct.ex_22102024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab112" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_22102024.Lab112" />
-      <module name="ATB9xJavaProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Oct.ex_22102024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Lab113" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Oct.ex_22102024.Lab113" />
       <module name="ATB9xJavaProgram" />
@@ -252,22 +210,74 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab114" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_23102024.Lab114" />
+      <module name="ATB9xJavaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Oct.ex_23102024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab115" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_23102024.Lab115" />
+      <module name="ATB9xJavaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Oct.ex_23102024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab116" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_23102024.Lab116" />
+      <module name="ATB9xJavaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Oct.ex_23102024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task2301" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_23102024.Task2301" />
+      <module name="ATB9xJavaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Oct.ex_23102024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Lab107" />
       <item itemvalue="Application.Lab067" />
+      <item itemvalue="Application.Task2301" />
+      <item itemvalue="Application.Lab116" />
       <item itemvalue="Application.Lab113" />
-      <item itemvalue="Application.Lab112" />
-      <item itemvalue="Application.Lab111_arg" />
-      <item itemvalue="Application.Lab107_arg" />
-      <item itemvalue="Application.Lab110" />
+      <item itemvalue="Application.Lab114" />
+      <item itemvalue="Application.Lab115" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task2301" />
+        <item itemvalue="Application.Lab116" />
+        <item itemvalue="Application.Lab115" />
+        <item itemvalue="Application.Lab114" />
         <item itemvalue="Application.Lab113" />
-        <item itemvalue="Application.Lab112" />
-        <item itemvalue="Application.Lab111_arg" />
-        <item itemvalue="Application.Lab107_arg" />
-        <item itemvalue="Application.Lab110" />
       </list>
     </recent_temporary>
   </component>
@@ -408,7 +418,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729689139469</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1729689554020</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1729689554020</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -585,6 +603,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Oct/ex_23102024/Lab114.java</url>
+          <line>4</line>
+          <properties class="Oct.ex_23102024.Lab114" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="49" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Oct/ex_11102024/Lab042.java</url>
