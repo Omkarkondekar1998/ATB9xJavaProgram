@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afa83ac5-1a3e-4497-b709-35e500e613ca" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_28122024/Lab123.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_28122024/Lab124.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_28122024/Task2801.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_29102024/Lab124.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/Lab118.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_24102024/Lab118.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex_24102024/Lab119.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_25102024/Lab119.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex_24102024/Lab120.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_25102024/Lab120.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex_24102024/Lab121.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_25102024/Lab121.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex_24102024/Lab122.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_25102024/Lab122.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex_24102024/Lab122Part2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_25102024/Lab122Part2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,6 +164,7 @@
     "Application.Task1602.executor": "Run",
     "Application.Task1802.executor": "Run",
     "Application.Task2301.executor": "Run",
+    "Application.Task2801.executor": "Run",
     "Application.Task_1801.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -186,7 +179,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab124">
+  <component name="RunManager" selected="Application.Task2801">
     <configuration name="Lab067" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Oct.ex_16102024.Lab067" />
       <module name="ATB9xJavaProgram" />
@@ -204,19 +197,6 @@
     <configuration name="Lab107" type="Application" factoryName="Application">
       <module name="ATB9xJavaProgram" />
       <option name="PROGRAM_PARAMETERS" value="30" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab121" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_25102024.Lab121" />
-      <module name="ATB9xJavaProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Oct.ex_25102024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -273,22 +253,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task2801" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_28122024.Task2801" />
+      <module name="ATB9xJavaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Oct.ex_28122024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Lab107" />
       <item itemvalue="Application.Lab067" />
       <item itemvalue="Application.Lab123" />
       <item itemvalue="Application.Lab124" />
-      <item itemvalue="Application.Lab121" />
+      <item itemvalue="Application.Task2801" />
       <item itemvalue="Application.Lab122" />
       <item itemvalue="Application.Lab122Part2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task2801" />
         <item itemvalue="Application.Lab124" />
         <item itemvalue="Application.Lab123" />
         <item itemvalue="Application.Lab122Part2" />
         <item itemvalue="Application.Lab122" />
-        <item itemvalue="Application.Lab121" />
       </list>
     </recent_temporary>
   </component>
@@ -461,7 +454,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730296253858</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1730526851988</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1730526851988</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
