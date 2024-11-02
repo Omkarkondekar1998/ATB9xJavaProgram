@@ -1,4 +1,4 @@
-package Oct;
+package Oct.ex_24102024;
 
 public class Lab118 {
 
