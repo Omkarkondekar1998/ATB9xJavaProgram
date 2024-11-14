@@ -8,6 +8,5 @@ public class Lab154_Encapsulation {
         Testcase1 TC1 = new Testcase1();
         TC1.setBrowser("chrome",true);
         TC1.startTestCase();
-
     }
 }

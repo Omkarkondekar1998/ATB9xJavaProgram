@@ -5,23 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afa83ac5-1a3e-4497-b709-35e500e613ca" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024/Example1/Encapsulation/Lab152.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024/Example1/Hierarchical_Inheritance08112024/Amu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024/Example1/Hierarchical_Inheritance08112024/Father.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024/Example1/Hierarchical_Inheritance08112024/Lab148_Hierarchical.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024/Example1/Hierarchical_Inheritance08112024/None.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024/Example1/Hierarchical_Inheritance08112024/Omkar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024/Example1/Polymorphism08112024/Overloading/Lab149.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024/Example1/Polymorphism08112024/Overriding/Lab150.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024/Example1/Polymorphism08112024/Overriding/Lab151.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_11112024/Criminal/Thief.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_11112024/Lab154_Encapsulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_11112024/Police/COP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_11112024/Police/JrCOP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_11112024/Real/Base_class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_11112024/Real/Testcase1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_11112024/Real/Testcase2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_12112024/Lab155.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_12112024/Lab156.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_12112024/Lab157.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_12112024/Lab158.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_12112024/Lab159.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_12112024/Lab160.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Nov/ex_11112024/Lab154_Encapsulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nov/ex_11112024/Lab154_Encapsulation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,6 +184,8 @@
     "Application.Lab150.executor": "Run",
     "Application.Lab151.executor": "Run",
     "Application.Lab154_Encapsulation.executor": "Run",
+    "Application.Lab155.executor": "Run",
+    "Application.Lab159.executor": "Run",
     "Application.Lab_100.executor": "Run",
     "Application.Oct.ex_29102024.Lab124.executor": "Run",
     "Application.RealTestcaseLab146.executor": "Run",
@@ -222,7 +215,7 @@
       <recent name="Nov.ex_07112024.Example1.Inheritance3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab154_Encapsulation">
+  <component name="RunManager" selected="Application.Lab159">
     <configuration name="Lab067" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Oct.ex_16102024.Lab067" />
       <module name="ATB9xJavaProgram" />
@@ -240,32 +233,6 @@
     <configuration name="Lab107" type="Application" factoryName="Application">
       <module name="ATB9xJavaProgram" />
       <option name="PROGRAM_PARAMETERS" value="30" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab147_multilevel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Nov.ex_07112024.Example1.MultiLevelInheritance.Lab147_multilevel" />
-      <module name="ATB9xJavaProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Nov.ex_07112024.Example1.MultiLevelInheritance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab149" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Nov.ex_07112024.Example1.Polymorphism08112024.Overloading.Lab149" />
-      <module name="ATB9xJavaProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Nov.ex_07112024.Example1.Polymorphism08112024.Overloading.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -309,22 +276,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab155" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nov.ex_12112024.Lab155" />
+      <module name="ATB9xJavaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Nov.ex_12112024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab159" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nov.ex_12112024.Lab159" />
+      <module name="ATB9xJavaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Nov.ex_12112024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Lab107" />
       <item itemvalue="Application.Lab067" />
+      <item itemvalue="Application.Lab155" />
+      <item itemvalue="Application.Lab159" />
       <item itemvalue="Application.Lab154_Encapsulation" />
-      <item itemvalue="Application.Lab149" />
       <item itemvalue="Application.Lab150" />
       <item itemvalue="Application.Lab151" />
-      <item itemvalue="Application.Lab147_multilevel" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab159" />
+        <item itemvalue="Application.Lab155" />
         <item itemvalue="Application.Lab154_Encapsulation" />
         <item itemvalue="Application.Lab151" />
         <item itemvalue="Application.Lab150" />
-        <item itemvalue="Application.Lab149" />
-        <item itemvalue="Application.Lab147_multilevel" />
       </list>
     </recent_temporary>
   </component>
